@@ -30,6 +30,7 @@ MySQL, Teradata, DB2
 Azure Storage Service, Azure Data Factory
 
 
+## 🔗 Some more information
 👩‍💻 I'm currently working on an Object Detection Project which will be able to estimate the distance between an object and camera...
 
 🧠 I'm currently learning Deep Learning techniques...
