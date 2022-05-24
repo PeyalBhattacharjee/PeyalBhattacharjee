@@ -2,9 +2,7 @@
 # 👋Hello Everyone, my name is Peyal Bhattacharjee
 
 ## 🚀 About Me
-- Data Scientist at Tata Consultancy Services.
-- Post Graduate Program in Data Science (Full Time) from Praxis Business School.
-- 5+ years of experience as an IT professional with 2+ years in Data Science and Machine Learning.
+- Data Scientist at TheMathCompany
 - Good exposure in executing data driven solutions, building data models, data visualization and applying Machine Learning and Deep Learning concepts.
 - Experienced at creating supervised and unsupervised models to deliver insights and implement action-oriented solutions to solve complex business problems.
 
@@ -15,19 +13,15 @@
 
 ## 🛠 Skills
 ## Machine Learning : 
-Supervised and Unsupervised Learning Techniques : KNN, Linear Regression, Logistic Regression, Naive Bayes, Decision Trees, Ensemble Techniques, Clustering and Collaborative Filtering
-## Deep Learning : 
-Neural Network, Object Detection, OpenCV
+Supervised and Unsupervised Learning Techniques : KNN, Linear Regression, Logistic Regression, Decision Trees, Ensemble Techniques, Clustering
 ## Languages : 
 Python, R (basics), SQL, COBOL
 ## Libraries : 
-Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, NLTK, TensorFlow
+Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn
 ## Tools : 
-PowerBI, Microsoft SQL Server Management Studio, GIT, Teradata SQL Assitant, MySQL, Service Now Management System, MS Excel
+Microsoft SQL Server Management Studio, Teradata SQL Assitant, MySQL, Service Now Management System, MS Excel
 ## Data Storage : 
 MySQL, Teradata, DB2
-## Cloud Stack : 
-Azure Storage Service, Azure Data Factory
 
 
 ## 🔗 Some more information
